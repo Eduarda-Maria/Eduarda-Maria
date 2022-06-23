@@ -1,9 +1,9 @@
 ### Hello, World👋
 
 
-- 🐱‍🐉Oi, me chamo Eduarda🐱‍🏍
-- 😀 atualmente estou aprendendo Javascript 
-- 😄 Pronomes: ela/dela
+- 🐱‍🐉Hi, my name is Eduarda🐱‍🏍
+- 😀 I'm currently learning Javascript 
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/Eduarda-Maria">
