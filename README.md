@@ -2,7 +2,7 @@
 
 
 - 🐱‍🐉Hi, my name is Eduarda🐱‍🏍
-- 😀 I'm currently learning Javascript 
+- 😀 I'm currently learning Javascript/typescript
 - 😄 Pronouns: she/her
 
 <div align="center">
