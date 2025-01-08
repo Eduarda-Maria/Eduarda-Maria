@@ -3,7 +3,7 @@
 
 - 🐱‍🐉Hi, my name is Eduarda🐱‍🏍
 - 😀 I'm currently learning Javascript/typescript
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her 
 
 <div align="center">
   <a href="https://github.com/Eduarda-Maria">
