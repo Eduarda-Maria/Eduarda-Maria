@@ -1,9 +1,10 @@
 ### Hello, World👋
 
 
-- 🐱‍🐉Hi, my name is Eduarda🐱‍🏍
+- 🐱‍🐉Hi, my name is Eduarda
 - 😀 I'm currently learning Javascript/typescript
-- 😄 Pronouns: she/her 
+- 😄 Pronouns: she/her
+- mobile Develop
 
 <div align="center">
   <a href="https://github.com/Eduarda-Maria">
